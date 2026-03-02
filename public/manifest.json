@@ -1,0 +1,23 @@
+{
+  "name": "Hintergrundentferner.online",
+  "short_name": "BG Remover",
+  "description": "Hintergrund kostenlos entfernen mit KI. Kein Download, keine Anmeldung. Direkt im Browser.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/og-image.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ],
+  "lang": "de",
+  "dir": "ltr"
+}
